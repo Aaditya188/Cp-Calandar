@@ -1,0 +1,26 @@
+Compi Center
+
+
+
+A project for all the coding enthusiasts out there
+
+
+
+
+We aim to make a quite handy google chrome extension that can keep people updated with the ongoing and upcoming coding events of some major platforms like codechef, codeforces, gfg, leetcode, etc.
+
+We also made our own exclusive coding IDE for our young coding enthusiasts who all are interested in competitive coding practice. Our IDE is specially designed for the purpose of CP. Hence it is not having any Autocomplete feature and you can code in more than 20+ Languages and after running the code you can save the code in your local system using download code button.
+
+We also provide a Global Chat Forum for all our coders so that they can contact anyone in this Development Community for help or some kind of motivation and all.
+
+
+
+
+
+The Main Challanges which we have faced while buliding this Project : 
+
+1.) Collecting API of Different Coding Platforms and Testing them and Decoding them to Javascript fetch Request
+2.) Hosting our own IDE on Web Sever with fast speed and low response time and higher bandwidth
+3.) Integrating the Sphere Engine API in Javascript for IDE Backend 
+4.) For Extension Hosting on Google Chrome Web Store is a very hectic task as it requires 5$ Fees and 3-5 Days for the Extension to Publish.
+5.) Hosting Socket.IO Chat Forum on Heroku with a NodeJS backend 
